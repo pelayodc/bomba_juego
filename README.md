@@ -1,4 +1,4 @@
-# Juego Bomba
+# Juego Desactivar Bomba
 
 Proyecto de Arduino/ESP32 para un juego de desactivacion de bomba. El montaje usa un teclado matricial 4x4, LEDs de estado, un LED RGB y un buzzer para guiar al jugador por varias pruebas secuenciales.
 
