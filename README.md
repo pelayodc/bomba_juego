@@ -4,7 +4,7 @@ Proyecto de Arduino/ESP32 para un juego de desactivacion de bomba. El montaje us
 
 ## Contenido del proyecto
 
-- `bomba_juego/bomba_juego.ino`: sketch principal del juego.
+- `bomba_juego.ino`: sketch principal del juego.
 - `manual.docx`: manual narrativo para los jugadores.
 - `wiki/`: documentacion tecnica preparada para GitHub Wiki.
 
