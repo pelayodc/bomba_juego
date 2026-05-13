@@ -1,4 +1,4 @@
-# Juego Bomba
+# Juego Desactivar Bomba
 
 Wiki tecnica del proyecto `bomba_juego`, un juego de desactivacion de bomba hecho con Arduino/ESP32, teclado matricial 4x4, LEDs y buzzer.
 
@@ -15,7 +15,7 @@ El juego propone una secuencia de pruebas que deben resolverse en orden. Cada er
 
 ## Archivos del proyecto
 
-- `bomba_juego/bomba_juego.ino`: sketch principal de Arduino.
+- `bomba_juego.ino`: sketch principal de Arduino.
 - `manual.docx`: manual narrativo para los jugadores.
 - `README.md`: descripcion breve del proyecto.
 
